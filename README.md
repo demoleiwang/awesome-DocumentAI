@@ -23,3 +23,7 @@
 * **[[DocTTA'22]](https://arxiv.org/pdf/2206.07240.pdf)** Test-Time Adaptation for Visual Document Understanding. 2022.  
 
     *Sayna Ebrahimi, Sercan Ö. Arık, Tomas Pfister.* 
+
+* **[[X'22]](https://arxiv.org/pdf/2208.08201.pdf)** Understanding Long Documents with Different Position-Aware Attentions. 2022. 
+
+    *Hai Pham†∗ , Guoxin Wang‡ , Yijuan Lu‡ , Dinei Florencio‡ , Cha Zhang‡.* 
