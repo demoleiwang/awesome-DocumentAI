@@ -37,7 +37,7 @@
 
 ### ECCV 
 
-1. **[[MGPSTR'22]](https://arxiv.org/pdf/2209.03592.pdf)**Multi-Granularity Prediction for Scene Text Recognition. ECCV 2022.
+1. **[[MGPSTR'22]](https://arxiv.org/pdf/2209.03592.pdf)** Multi-Granularity Prediction for Scene Text Recognition. ECCV 2022.
     *Peng Wang, Cheng Da, Cong Yao.* 
 
 ### ICCV 
