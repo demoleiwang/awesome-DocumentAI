@@ -36,24 +36,26 @@
     *Yun-Hsuan Lin, Wen-Chin Chen, Yung-Yu Chuang.*
 
 ### ECCV 
-1.**[[MGPSTR'22]](https://arxiv.org/pdf/2209.03592.pdf)**Multi-Granularity Prediction for Scene Text Recognition. ECCV 2022.
+
+1. **[[MGPSTR'22]](https://arxiv.org/pdf/2209.03592.pdf)**Multi-Granularity Prediction for Scene Text Recognition. ECCV 2022.
     *Peng Wang, Cheng Da, Cong Yao.* 
 
 ### ICCV 
+
 1. **[[DocFormer'21]](https://openaccess.thecvf.com/content/ICCV2021/papers/Appalaraju_DocFormer_End-to-End_Transformer_for_Document_Understanding_ICCV_2021_paper.pdf)** DocFormer: End-to-End Transformer for Document Understanding. ICCV 2021. 
     *Srikar Appalaraju, Bhavan Jasani, Bhargava Urala Kota, Yusheng Xie.* 
 
 2. **[[E2EPWUDI'21]](https://openaccess.thecvf.com/content/ICCV2021/papers/Das_End-to-End_Piece-Wise_Unwarping_of_Document_Images_ICCV_2021_paper.pdf)** End-to-End Piece-Wise Unwarping of Document Images. ICCV 2021. 
     *Sagnik Das, Kunwar Yashraj Singh, Jon Wu, Erhan Bas, Vijay Mahadevan.* 
 
-3.**[[E2EUDIBD'21]](https://openaccess.thecvf.com/content/ICCV2021/papers/Gangeh_End-to-End_Unsupervised_Document_Image_Blind_Denoising_ICCV_2021_paper.pdf)** End-to-End Unsupervised Document Image Blind Denoising. ICCV 2021. 
+3. **[[E2EUDIBD'21]](https://openaccess.thecvf.com/content/ICCV2021/papers/Gangeh_End-to-End_Unsupervised_Document_Image_Blind_Denoising_ICCV_2021_paper.pdf)** End-to-End Unsupervised Document Image Blind Denoising. ICCV 2021. 
     *Mehrdad J Gangeh, Marcin Plata, Hamid R Motahari Nezhad, Nigel P Duffy.* 
 
-4.**[[CRLEI'21]](https://arxiv.org/pdf/2105.01060.pdf)** Curious Representation Learning for Embodied Intelligence. ICCV 2021. [[code](https://github.com/yilundu/crl)]
+4. **[[CRLEI'21]](https://arxiv.org/pdf/2105.01060.pdf)** Curious Representation Learning for Embodied Intelligence. ICCV 2021. [[code](https://github.com/yilundu/crl)]
     *Yilun Du, Chuang Gan, Phillip Isola.* 
 
 ### NeurIPS
-(oral)1.**[[LMVSP'22]](https://openreview.net/pdf?id=pMQwKL1yctf)** Language modeling via stochastic processes. NeurIPS 2022.
+(oral)1. **[[LMVSP'22]](https://openreview.net/pdf?id=pMQwKL1yctf)** Language modeling via stochastic processes. NeurIPS 2022.
     *Rose E. Wang, Esin Durmus, Noah Goodman, Tatsunori B. Hashimoto.* 
 
 
