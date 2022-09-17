@@ -58,6 +58,18 @@
 (oral)1. **[[LMVSP'22]](https://openreview.net/pdf?id=pMQwKL1yctf)** Language modeling via stochastic processes. ICLR 2022.[[code](https://github.com/rosewang2008/language_modeling_via_stochastic_processes)]
     *Rose E. Wang, Esin Durmus, Noah Goodman, Tatsunori B. Hashimoto.* 
 
+### AAAI
+1. **[[X'21]](https://ojs.aaai.org/index.php/AAAI/article/download/17687/17494)** Multi-modal Graph Fusion for Named Entity Recognition with Targeted Visual Guidance. AAAI 2022.
+
+### ACL
+1. **[[LiLT'22]](https://aclanthology.org/2022.acl-long.534.pdf)** LiLT: A Simple yet Effective Language-Independent Layout Transformer for Structured Document Understanding. ACL 2022.[[code](https://github.com/jpWang/LiLT)]
+    *Jiapeng Wang, Lianwen Jin, Kai Ding.* 
+
+2. **[[Docalog'22]](https://aclanthology.org/2022.dialdoc-1.16.pdf)** Docalog: Multi-document Dialogue System using Transformer-based Span Retrieval. ACL 2022.
+    *Sayed Hesam Alavian, Ali Satvaty, Sadra Sabouri, Ehsaneddin Asgari, Hossein Samet.* 
+
+3. **[[FormNet'22]](https://aclanthology.org/2022.acl-long.260.pdf)** FormNet: Structural Encoding beyond Sequential Modeling in Form Document Information Extraction. ACL 2022.
+    *Chen-Yu Lee, Chun-Liang Li, Timothy Dozat, Vincent Perot, Guolong Su, Nan Hua, Joshua Ainslie, Renshen Wang, Yasuhisa Fujii, Tomas Pfister.* 
 
 ### Others
 
@@ -65,6 +77,10 @@
 
     *Sayna Ebrahimi, Sercan Ö. Arık, Tomas Pfister.* 
 
-1. **[[X'22]](https://arxiv.org/pdf/2208.08201.pdf)** Understanding Long Documents with Different Position-Aware Attentions. 2022. 
+2. **[[X'22]](https://arxiv.org/pdf/2208.08201.pdf)** Understanding Long Documents with Different Position-Aware Attentions. 2022. 
 
-    *Hai Pham†∗ , Guoxin Wang‡ , Yijuan Lu‡ , Dinei Florencio‡ , Cha Zhang‡.* 
+    *Hai Pham, Guoxin Wang, Yijuan Lu, Dinei Florencio, Cha Zhang.* 
+ 
+3. **[[X'22]](https://arxiv.org/pdf/2205.11215v1.pdf)** Document Intelligence Metrics for Visually Rich Document Evaluation. 2022. 
+
+    *Jonathan DeGange, Swapnil Gupta, Zhuoyu Han, Krzysztof Wilkosz, Adam Karwan.* 
