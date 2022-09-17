@@ -39,6 +39,9 @@
 
 1. **[[MGPSTR'22]](https://arxiv.org/pdf/2209.03592.pdf)** Multi-Granularity Prediction for Scene Text Recognition. ECCV 2022.
     *Peng Wang, Cheng Da, Cong Yao.* 
+    
+2.**[[Donut'22]](https://arxiv.org/pdf/2111.15664.pdf)** OCR-free Document Understanding Transformer. ECCV 2022. [[code](https://github.com/clovaai/donut)]
+    *Geewook Kim, Teakgyu Hong, Moonbin Yim, JeongYeon Nam, Jinyoung Park, Jinyeong Yim, Wonseok Hwang, Sangdoo Yun, Dongyoon Han, Seunghyun Park.* 
 
 ### ICCV 
 
@@ -84,3 +87,4 @@
 3. **[[X'22]](https://arxiv.org/pdf/2205.11215v1.pdf)** Document Intelligence Metrics for Visually Rich Document Evaluation. 2022. 
 
     *Jonathan DeGange, Swapnil Gupta, Zhuoyu Han, Krzysztof Wilkosz, Adam Karwan.* 
+
