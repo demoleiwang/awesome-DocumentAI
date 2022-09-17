@@ -59,7 +59,7 @@
     *Rose E. Wang, Esin Durmus, Noah Goodman, Tatsunori B. Hashimoto.* 
 
 
-### Others 2022
+### Others
 
 1. **[[DocTTA'22]](https://arxiv.org/pdf/2206.07240.pdf)** Test-Time Adaptation for Visual Document Understanding. 2022.  
 
