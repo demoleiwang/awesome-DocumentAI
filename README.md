@@ -54,8 +54,8 @@
 4. **[[CRLEI'21]](https://arxiv.org/pdf/2105.01060.pdf)** Curious Representation Learning for Embodied Intelligence. ICCV 2021. [[code](https://github.com/yilundu/crl)]
     *Yilun Du, Chuang Gan, Phillip Isola.* 
 
-### NeurIPS
-(oral)1. **[[LMVSP'22]](https://openreview.net/pdf?id=pMQwKL1yctf)** Language modeling via stochastic processes. NeurIPS 2022.
+### ICLR
+(oral)1. **[[LMVSP'22]](https://openreview.net/pdf?id=pMQwKL1yctf)** Language modeling via stochastic processes. ICLR 2022.
     *Rose E. Wang, Esin Durmus, Noah Goodman, Tatsunori B. Hashimoto.* 
 
 
